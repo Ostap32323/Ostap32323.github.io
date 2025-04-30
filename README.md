@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Lottooss 👋</h1>
+<h1 align="center">Hi, I'm Ostap 👋</h1>
 
 <p align="center">
   💻 Junior web developer from Ukraine<br>
